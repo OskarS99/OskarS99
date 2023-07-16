@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👦 Oskar Siry
+ I am a front-end developer who wants to expand his knowledge all the time and move to a higher lever in programming.
+All projects have been created from the beginning and I use them with techniques that I have and I try to constantly improve.
+Im currently lookinf fro a job, feel fre to contact me using button below.
+
+<p align ="left">
+  <a href="mailto:oskarsiry99@gmail.com">
+    <img alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" />
+  </a>
+  </p>
 
 <!--
 **OskarS99/OskarS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
