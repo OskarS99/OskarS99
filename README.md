@@ -26,6 +26,7 @@ Im currently lookinf fro a job, feel fre to contact me using button below.
 
 <details>
  <summary><h2>My Journey</h2></summary>
+ My first interest in programming came at school, when I was learning the absolute basics of C++, but it really wasn't much. Over time, I decided to delve more into the information and found that programming as a Front-end developer is what I want to do. I read a bit of information and immediately started looking for sources where I could start learning. I started the course and every day I gained more and more skills. He continues his way and wants to expand his skills and learn new technologies.
 </details>
 <!--
 **OskarS99/OskarS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
