@@ -11,7 +11,6 @@ Im currently lookinf fro a job, feel fre to contact me using button below.
     <img alt="mail" title="mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </p>
- # 
 
 ### Langueages and Tools which I use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
