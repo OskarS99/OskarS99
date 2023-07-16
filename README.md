@@ -5,7 +5,7 @@ Im currently lookinf fro a job, feel fre to contact me using button below.
 
 <p align ="left">
   <a href="mailto:oskarsiry99@gmail.com">
-    <img alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" />
+    <img alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/-oskarsiry99@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
   </a>
   </p>
 
